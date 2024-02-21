@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/inesb"><img src="https://api.daily.dev/devcards/v2/NgFCOlvuhRDFzxbam9J6T.png?r=3w9&type=wide" width="652" alt="Inès Ben Amar's Dev Card"/></a>
+<a href="https://app.daily.dev/inesb"><img src="./devcard.png" width="352" alt="Inès Ben Amar's Dev Card"/></a>
