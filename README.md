@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 Currently working at Chargemap as a full-stack web developer, specialized in front-end development.
+
+💻 Mainly using Vue.js and Nuxt.js
+
 <!--
 **ines-b/ines-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/inesb"><img src="https://api.daily.dev/devcards/v2/NgFCOlvuhRDFzxbam9J6T.png?r=3w9&type=wide" width="652" alt="Inès Ben Amar's Dev Card"/></a>
