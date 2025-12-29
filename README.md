@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 Currently working at Chargemap as a full-stack web developer, specialized in front-end development.
+🌱 Currently working as a full-stack web developer, specialized in front-end development.
 
-💻 Mainly using Vue.js and Nuxt.js
+💻 Using Vue.js and Nuxt.js
 
 <!--
 **ines-b/ines-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
